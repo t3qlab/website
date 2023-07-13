@@ -1,6 +1,6 @@
 {
     "Intro":{
-        "title":"<strong>AI HunminJeongyum</strong>\nSouth Korea, the world's best\n use of artificial intelligence",
+        "title":"<strong>AI HUNMINJUNGEM</strong>\nSouth Korea, the world's best\n use of artificial intelligence",
         "description":{
             "m": "Just as King Sejong the Great created 28 letters for the people who could not express themselves properly due to lack of writing, this casebook combines 7 types of data handled by A.I. and 4 types of tasks performed by A.I. into an integrated platform.",
             "d": "Just as King Sejong the Great created 28 letters for the people who could not express\n themselves properly due to lack of writing, this casebook combines 7 types of data\n handled by A.I. and 4 types of tasks performed by A.I. into an integrated platform."
@@ -33,17 +33,17 @@
     },
     "uses":{
         "title":{
-            "e":"AI HunminJeongyum", "n":" Is Applied to the"
+            "e":"AI HUNMINJUNGEM", "n":" Is Applied to the"
         },
         "description":{
-            "m": "Applying AI Hunmin Jungtum to services makes it easier to learn AI and discover services. It's also easy to develop services.",
-            "d": "Applying AI Hunmin Jungtum to services makes it easier to learn AI\n and discover services. It's also easy to develop services."
+            "m": "Applying AI HUNMINJUNGEM to services makes it easier to learn AI and discover services. It's also easy to develop services.",
+            "d": "Applying AI HUNMINJUNGEM to services makes it easier to learn AI\n and discover services. It's also easy to develop services."
         },
         "utitle":[ "Learn AI made easy", "AI service discovery made easy", "Developing AI services made easy" ]
     },
     "UsingPlan":{
         "title":{
-            "e":"AI HunminJeongyum", "n":"How to use it"
+            "e":"AI HUNMINJUNGEM", "n":"How to use it"
         },
         "description":{
             "m": "The AI Hun Min Ching platform can be utilized for a variety of purposes including schools, military, government, enterprise, healthcare, and more.",
